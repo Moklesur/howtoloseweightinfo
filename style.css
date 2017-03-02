@@ -57,6 +57,25 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * Normalizing styles have been helped along thanks to the fine work of
  * Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
  */
+#tablepress-1_wrapper table{
+    border: 1px solid #d9edf7;
+}
+.day-1,.day-3,.day-5,.day-7{
+    background: #2ecc71;
+    padding: 30px;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.day-3{
+    background: #7d3f98;
+}
+.day-5{
+    background: #ffc120;
+}
+.day-7{
+    background: #622599;
+}
 .fixing-h2-tag .textwidget h2{
         display: inline-block;
         margin: 0;
